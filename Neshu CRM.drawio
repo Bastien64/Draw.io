@@ -276,7 +276,7 @@
         <mxCell id="oh-1C_36_zT2Rk8AYhRO-52" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;DESK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-450" y="-125" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="oh-1C_36_zT2Rk8AYhRO-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF2A12;" edge="1" parent="1">
+        <mxCell id="oh-1C_36_zT2Rk8AYhRO-53" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF2A12;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="JevtcrBScPYAY5YOZ9uz-35" target="oh-1C_36_zT2Rk8AYhRO-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="860" as="sourcePoint" />
             <mxPoint x="-290" y="860" as="targetPoint" />
